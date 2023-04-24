@@ -1,0 +1,40 @@
+body {
+    background: rgb(127, 118, 255);
+
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.411);
+    margin-top: 2%;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic ;
+}
+
+#texto {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.411);
+    color: rgb(53, 53, 53);
+    margin-top: 2%;
+}
+
+select#flista {
+    width: 200px;
+}
