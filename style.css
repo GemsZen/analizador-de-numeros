@@ -48,16 +48,19 @@ select#flista {
 }
 
 #fnum {
+    border-width: 2px;
     border-radius: 15px;
     border-color: #00ff15;
 }
 
 #add {
+    border-width: 2px;
     border-radius: 15px;
     border-color: #00ff22;
 }
 
 #fin {
+    border-width: 2px;
     border-radius: 15px;
     border-color: #ff0000;
 }
