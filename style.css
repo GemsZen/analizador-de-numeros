@@ -37,8 +37,27 @@ footer {
 
 select#flista {
     width: 200px;
-    border-width: 4px;
-    border-radius: 10px;
-    border-color: #7F76FF;
+    border-width: 2px;
+    border-radius: 15px;
+    border-color: #000000;
     overflow: hidden;
+}
+
+#centro {
+    text-align: center;
+}
+
+#fnum {
+    border-radius: 15px;
+    border-color: #00ff15;
+}
+
+#add {
+    border-radius: 15px;
+    border-color: #00ff22;
+}
+
+#fin {
+    border-radius: 15px;
+    border-color: #ff0000;
 }
