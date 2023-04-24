@@ -37,4 +37,5 @@ footer {
 
 select#flista {
     width: 200px;
+    border-width: 4px;
 }
